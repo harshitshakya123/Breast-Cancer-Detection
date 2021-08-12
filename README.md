@@ -39,13 +39,13 @@ Link-  http://peipa.essex.ac.uk/pix/mias/
 DDSM- https://data.mendeley.com/datasets/ywsbh3ndr8/1
 
 ### Directory used:-
-- make root directory name - mini-MIAS 
+- Make root directory name - mini-MIAS 
 - Inside mini-MIAS folder create two folder - all-mias and data
 - Inside all-mias folder paste all dataset image given above link 
-- And in the dat folder create two more folder - benign_cases and malignant_cases
+- And in the data folder create two more folder - benign_cases and malignant_cases
 - Then run the project and handle all image_directory carefully
 
-Note:-This is my final year project in which first i am segment the images with the help of python library openCV after that building the deep learning model and then classify the external images whether there is malignant or benign. 
+Note:- This is my final year project in which first i am segment the images with the help of python library openCV after that building the deep learning model and then classify the external images whether there is malignant or benign. 
 
 #### "Suggestions and project Improvements are Invited!"
 
