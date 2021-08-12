@@ -41,8 +41,8 @@ Note:- This is my final year project in which first i am segment the images with
 
 ## Contact
 * Email: harshit.shakya99@gmail.com
-* Website: (https://harshitshakya123.github.io/)
-* LinkedIn: (https://www.linkedin.com/in/harshit-shakya123/)
+* Website: https://harshitshakya123.github.io/
+* LinkedIn: https://www.linkedin.com/in/harshit-shakya123/
 
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Creator<br/>
