@@ -1,17 +1,7 @@
 # Breast-Cancer-Detection
 
 ### Abstract:-
-Breast cancer is the most prevalent cancer among women, and it is also the second 
-greatest cause of cancer mortality among them. Because the etiology of breast                                         
-cancer is unknown, there are currently no effective techniques to prevent or cure it. 
-Breast cancer can be diagnosed and managed more effectively if caught early, 
-which increases the chances of a full recovery. Deep Learning has been shown to be 
-the most effective method for detecting breast cancer in its early stages, and it is 
-still the dominant imaging modality for breast cancer screening and diagnosis. This 
-technique can also identify various diseases and may indicate the type of cancer, 
-such as normal, benign, or malignant. This thesis explains how to extract 
-characteristics from a picture to locate cancer-affected areas, which is an important 
-stage in the diagnosis and verification of breast cancer.
+Breast cancer is the most prevalent cancer among women, and it is also the second greatest cause of cancer mortality among them. Because the etiology of breast cancer is unknown, there are currently no effective techniques to prevent or cure it. Breast cancer can be diagnosed and managed more effectively if caught early, which increases the chances of a full recovery. Deep Learning has been shown to be the most effective method for detecting breast cancer in its early stages, and it is still the dominant imaging modality for breast cancer screening and diagnosis. This technique can also identify various diseases and may indicate the type of cancer, such as normal, benign, or malignant. This thesis explains how to extract characteristics from a picture to locate cancer-affected areas, which is an important stage in the diagnosis and verification of breast cancer.
 
 ![CNN Model](https://i.postimg.cc/wxWB8CTP/CNN-architecture.png)
 
