@@ -20,7 +20,6 @@ stage in the diagnosis and verification of breast cancer.
 - Best Accuracy
 - Segment the tumor part
 - User Friendly
-- This is a Mini-project developed using Java, Jdbc, Bootstrap. 
 
 ### Library used:-
 - OpenCv
@@ -34,7 +33,7 @@ stage in the diagnosis and verification of breast cancer.
 - seaborn
 
 ### Dataset used:-
-link-  http://peipa.essex.ac.uk/pix/mias/
+Link-  http://peipa.essex.ac.uk/pix/mias/
 
 ### Other dataset link:-
 DDSM- https://data.mendeley.com/datasets/ywsbh3ndr8/1
@@ -52,7 +51,7 @@ Note:-This is my final year project in which first i am segment the images with 
 
 ## Contact
 * Email: harshit.shakya99@gmail.com
-* Website: harshitshakya123.github.io/
+* Website: (https://harshitshakya123.github.io/)
 * LinkedIn: (https://www.linkedin.com/in/harshit-shakya123/)
 
 <bold>Thanks a lot</bold><br/>
